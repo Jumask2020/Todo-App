@@ -38,6 +38,7 @@ dependencies:
   sqflite: ^2.3.3+2
   dartz: ^0.10.1
   provider: ^6.1.2
+  textfield_datepicker: ^0.2.0
 
 dev_dependencies:
   flutter_test:
